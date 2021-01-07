@@ -11,4 +11,4 @@ Entstanden, um ein besseres Verständnis für FE-Programme und die numerische Um
 
 ## output
 
-![Alt text](output.png?raw=true "visualisierung des Spannungszustands")
+![Output](output.PNG?raw=true "visualisierung des Spannungszustands")
